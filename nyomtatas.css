@@ -26,7 +26,7 @@ body{
 
 h3{
   margin: 25px 0px;
-}
+} 
 
 a {
   font-style: italic;
@@ -42,3 +42,13 @@ a {
   visibility:hidden;
 }
 
+
+#szelesseg{
+     margin: 0 auto 15px auto;
+
+}
+
+#magassag{
+     margin: 0 auto 15px auto;
+
+}
